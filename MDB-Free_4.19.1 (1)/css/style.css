@@ -67,14 +67,14 @@ nav img {
   line-height: 1;
 }
 .text h1 {
-  font-size: 8vw;
+  font-size: 5vw;
   font-weight: bold;
   text-transform: uppercase;
   margin: 0;
   padding: 0;
 }
 .text p {
-  font-size: 5vw;
+  font-size: 4vw;
   font-weight: 100;
 }
 .cards {
@@ -259,7 +259,7 @@ p.info {
   background-color: #ebedee;
 }
 .contacts {
-  font-size: 3vw;
+  font-size: 2vw;
   color: #000;
   font-weight: 400;
 }
